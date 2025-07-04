@@ -44,14 +44,9 @@ I file verranno generati nella cartella `dist/`.
 ## 🌍 Deployment su GitHub Pages
 
 1. Aggiungi il nome del repo nel `vite.config.ts` (es. `base: '/nome/'`)
-2. Costruisci il progetto:
+2. Esegui il deploy (es. usando `gh-pages`):
    ```bash
-   npm run build
-   ```
-3. Esegui il deploy (es. usando `gh-pages`):
-   ```bash
-   npm install -D gh-pages
-   npx gh-pages -d dist
+   npm run deploy
    ```
 
 ## 📃 Licenza
