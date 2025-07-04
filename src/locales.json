@@ -1,0 +1,82 @@
+{
+  "it": {
+    "welcome": "Le Regole Della Casa",
+    "descrizione": "Benvenuti in questa casa confortevole e amorevole.",
+    "about": "Per una felice e sicura permanenza Vi preghiamo di voler rispettare le seguenti regole:",
+    "lista": [
+      "Vietato fumare. Sono presenti rilevatori di fumo, gas e monossido di carbonio.",
+      "Non lasciare le finestre aperte con i condizionatori o il riscaldamento accesi.",
+      "È vietato fare rumore dalle ore 22:00 alle 8:00 e dalle ore 13:00 alle 15:00.",
+      "Prima di uscire, controllare sempre: gas chiuso, luci spente, acqua chiusa, lavatrice e lavastoviglie spente.",
+      "È possibile utilizzare il box doccia con idromassaggio solo se si rispettano i seguenti prerequisiti: peso massimo 90 kg, altezza massima 225 cm, spazio d’ingresso 42 cm.",
+      "Il proprietario non è responsabile di eventuali furti. Chiudere sempre le porte e assicurarsi che la porta d’ingresso sia ben chiusa.",
+      "Al check-out, lasciare i telecomandi e le chiavi accanto alle TV.",
+      "Utilizzare i fornelli solo in presenza. Non allontanarsi durante l’uso e, al termine, verificare che tutto sia spento e le spine siano scollegate.",
+      "Prestare attenzione ai gradini nella doccia e nel bagno della camera matrimoniale.",
+      "Il riscaldamento è centralizzato. Non manomettere i dispositivi.",
+      "Non lasciare rifiuti in giro per casa: utilizzare solo gli appositi contenitori.",
+      "Evitare l’uso simultaneo di troppi dispositivi elettrici.",
+      "Tutto ciò che trovate è a vostra disposizione, con la fiducia che venga utilizzato con diligenza e buon senso."
+    ]
+  },
+  "en": {
+    "welcome": "House Rules",
+    "descrizione": "Welcome to this comfortable and loving home.",
+    "about": "For a happy and safe stay, please respect the following rules:",
+    "lista": [
+      "No smoking. Smoke, gas and carbon monoxide detectors are present.",
+      "Do not leave windows open with air conditioning or heating on.",
+      "No noise from 10 PM to 8 AM and from 1 PM to 3 PM.",
+      "Before leaving, always check: gas off, lights off, water off, washing machine and dishwasher off.",
+      "Shower box with hydromassage allowed only if: max weight 90 kg, max height 225 cm, entrance space 42 cm.",
+      "The owner is not responsible for thefts. Always lock doors and make sure the entrance door is closed.",
+      "At check-out, leave remotes and keys next to the TVs.",
+      "Use stove only when present. Do not leave it unattended and check everything is off at the end.",
+      "Pay attention to steps in the shower and master bedroom bathroom.",
+      "Heating is centralized. Do not tamper with devices.",
+      "Do not leave trash around the house: use designated containers only.",
+      "Avoid simultaneous use of too many electrical devices.",
+      "Everything you find is at your disposal, with the trust it will be used diligently and sensibly."
+    ]
+  },
+  "fr": {
+    "welcome": "Règlement de la maison",
+    "descrizione": "Bienvenue dans cette maison confortable et chaleureuse.",
+    "about": "Pour un séjour heureux et en toute sécurité, merci de respecter les règles suivantes :",
+    "lista": [
+      "Interdiction de fumer. Des détecteurs de fumée, de gaz et de monoxyde de carbone sont présents.",
+      "Ne laissez pas les fenêtres ouvertes avec la climatisation ou le chauffage allumés.",
+      "Silence obligatoire de 22h00 à 8h00 et de 13h00 à 15h00.",
+      "Avant de partir, vérifiez toujours : gaz coupé, lumières éteintes, eau fermée, lave-linge et lave-vaisselle éteints.",
+      "L'utilisation de la cabine de douche avec hydromassage est autorisée uniquement si les prérequis suivants sont respectés : poids maximum 90 kg, taille maximale 225 cm, largeur d'entrée 42 cm.",
+      "Le propriétaire n'est pas responsable des vols. Veuillez toujours fermer les portes et vous assurer que la porte d'entrée est bien verrouillée.",
+      "Au départ, laissez les télécommandes et les clés à côté des téléviseurs.",
+      "Utilisez les plaques de cuisson uniquement en présence. Ne les laissez pas sans surveillance et assurez-vous qu'elles sont éteintes à la fin.",
+      "Faites attention aux marches dans la douche et la salle de bain de la chambre principale.",
+      "Le chauffage est centralisé. Ne pas manipuler les dispositifs.",
+      "Ne laissez pas de déchets dans la maison : utilisez uniquement les conteneurs prévus à cet effet.",
+      "Évitez l'utilisation simultanée de trop nombreux appareils électriques.",
+      "Tout ce que vous trouvez est à votre disposition, avec la confiance qu'il sera utilisé avec diligence et bon sens."
+    ]
+  },
+  "es": {
+    "welcome": "Reglas de la casa",
+    "descrizione": "Bienvenidos a esta casa cómoda y acogedora.",
+    "about": "Para una estancia feliz y segura, por favor respete las siguientes reglas:",
+    "lista": [
+      "Prohibido fumar. Hay detectores de humo, gas y monóxido de carbono.",
+      "No deje las ventanas abiertas con el aire acondicionado o la calefacción encendidos.",
+      "Prohibido hacer ruido de 22:00 a 8:00 y de 13:00 a 15:00.",
+      "Antes de salir, siempre verifique: gas cerrado, luces apagadas, agua cerrada, lavadora y lavavajillas apagados.",
+      "Se puede usar la cabina de ducha con hidromasaje solo si se cumplen los siguientes requisitos: peso máximo 90 kg, altura máxima 225 cm, espacio de entrada 42 cm.",
+      "El propietario no se hace responsable de robos. Siempre cierre las puertas y asegúrese de que la puerta de entrada esté bien cerrada.",
+      "Al hacer el check-out, deje los controles remotos y las llaves junto a los televisores.",
+      "Use los fogones solo cuando esté presente. No se aleje durante su uso y, al terminar, verifique que todo esté apagado y que los enchufes estén desconectados.",
+      "Tenga cuidado con los escalones en la ducha y en el baño de la habitación principal.",
+      "La calefacción es centralizada. No manipule los dispositivos.",
+      "No deje basura por la casa: utilice solo los contenedores apropiados.",
+      "Evite el uso simultáneo de demasiados dispositivos eléctricos.",
+      "Todo lo que encuentre está a su disposición, con la confianza de que se utilizará con diligencia y sentido común."
+    ]
+  }
+}
