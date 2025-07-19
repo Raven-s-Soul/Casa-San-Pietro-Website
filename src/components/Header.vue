@@ -31,7 +31,7 @@ const currentTheme = computed<string>({
 
 <template>
   <v-app-bar app color="primary" :dark="currentTheme === 'dark'" :light="currentTheme === 'light'">
-    <v-toolbar-title>Home</v-toolbar-title>
+    <v-toolbar-title class="text-subtitle-1 font-weight-medium text-truncate">Doom's Key</v-toolbar-title>
     <v-spacer></v-spacer>
 
     <v-select
@@ -41,7 +41,7 @@ const currentTheme = computed<string>({
       dense
       outlined
       hide-details
-      style="max-width: 140px"
+      style="max-width: 140px; font-size: 0.4rem;"
       v-model="lang"
     />
 
@@ -53,8 +53,8 @@ const currentTheme = computed<string>({
       dense
       color="secondary"
     >
-      <v-btn value="dark" icon><v-icon>mdi-moon-waxing-crescent</v-icon></v-btn>
-      <v-btn value="light" icon><v-icon>mdi-white-balance-sunny</v-icon></v-btn>
+      <v-btn value="dark" icon><v-icon size="8">mdi-moon-waxing-crescent</v-icon></v-btn>
+      <v-btn value="light" icon><v-icon size="8">mdi-white-balance-sunny</v-icon></v-btn>
     </v-btn-toggle>
   </v-app-bar>
 </template>

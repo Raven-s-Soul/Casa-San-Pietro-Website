@@ -3,7 +3,7 @@
     "welcome": "Le Regole Della Casa",
     "descrizione": "Benvenuti in questa casa confortevole e amorevole.",
     "about": "Per una felice e sicura permanenza Vi preghiamo di voler rispettare le seguenti regole:",
-    "lista": [
+    "rules": [
       "Vietato fumare. Sono presenti rilevatori di fumo, gas e monossido di carbonio.",
       "Non lasciare le finestre aperte con i condizionatori o il riscaldamento accesi.",
       "È vietato fare rumore dalle ore 22:00 alle 8:00 e dalle ore 13:00 alle 15:00.",
@@ -16,67 +16,297 @@
       "Il riscaldamento è centralizzato. Non manomettere i dispositivi.",
       "Non lasciare rifiuti in giro per casa: utilizzare solo gli appositi contenitori.",
       "Evitare l’uso simultaneo di troppi dispositivi elettrici.",
-      "Tutto ciò che trovate è a vostra disposizione, con la fiducia che venga utilizzato con diligenza e buon senso."
+      "Non lasciate le chiavi inserite nella serratura.",
+      "L'ospite è responsabile da eventuale danni lasciati in questa casa."
+    ],
+    "manual": "Manuale:",
+    "manuallist": [
+      "Utilizzare la lavatrice con il programma n.14",
+      "Utilizzare la lavastoviglie con programma Ecologico",
+      "Bollitore: switch ON/OFF",
+      "Forno microonde: switch ON/OFF"
+    ],
+    "titleExp": "Cose da vedere al Vaticano e dintorni",
+    "preexp": "Esperienze uniche:",
+    "experiences": [
+      "Visitare la Basilica di San Pietro",
+      "Salire sulla Cupola della Basilica (progettata da Michelangelo)",
+      "Visitare i Musei Vaticani",
+      "Ammirare la Cappella Sistina",
+      "Visitare le Stanze di Raffaello",
+      "Visitare la Necropoli Vaticana (sotto la Basilica)",
+      "Visitare le Grotte Vaticane",
+      "Visitare lo Studio del Mosaico Vaticano",
+      "Passeggiare in Piazza San Pietro",
+      "Passeggiare nei Giardini Vaticani"
+    ],
+    "prespecialexp": "Esperienze speciali:",
+    "specialexp": [
+      "Incontrare il Papa",
+      "Assistere alla messa",
+      "Scattare una foto con la Guardia Svizzera",
+      "Spedire una cartolina dal Vaticano"
+    ],
+    "prenearexp": "Esperienze nei paraggi:",
+    "nearexp": [
+      "Visitare Castel Sant'Angelo",
+      "Visitare e vivere Trastevere",
+      "Visitare il Quartiere Prati",
+      "Passeggiare per Villa Doria Pamphilj"
+    ],
+    "service": "Servizi:",
+    "services":  [
+      "Negozi",
+      "Ristoranti",
+      "Lavanderia",
+      "Bar",
+      "Gelaterie",
+      "Supermercati",
+      "Parchi",
+      "Stazione ferroviaria (FT)",
+      "Fermata dell'autobus",
+      "Farmacia",
+      "Ospedale S. Spirito",
+      "Ospedale Bambin Gesù"
+    ],
+    "suggestion": "Consigli:",
+    "suggestions": [
+      "Vestiti in modo appropriato (niente spalle o gambe scoperte) per accedere ai luoghi sacri.",
+      "Prenota in anticipo per accedere alla Necropoli e ai Giardini Vaticani.",
+      "Arriva presto per evitare la folla, soprattutto nei Musei Vaticani."
     ]
   },
-  "en": {
+    "en": {
     "welcome": "House Rules",
     "descrizione": "Welcome to this comfortable and loving home.",
     "about": "For a happy and safe stay, please respect the following rules:",
-    "lista": [
-      "No smoking. Smoke, gas and carbon monoxide detectors are present.",
-      "Do not leave windows open with air conditioning or heating on.",
-      "No noise from 10 PM to 8 AM and from 1 PM to 3 PM.",
+    "rules": [
+      "No smoking. Smoke, gas, and carbon monoxide detectors are installed.",
+      "Do not leave windows open when air conditioning or heating is on.",
+      "No noise from 10:00 PM to 8:00 AM and from 1:00 PM to 3:00 PM.",
       "Before leaving, always check: gas off, lights off, water off, washing machine and dishwasher off.",
-      "Shower box with hydromassage allowed only if: max weight 90 kg, max height 225 cm, entrance space 42 cm.",
-      "The owner is not responsible for thefts. Always lock doors and make sure the entrance door is closed.",
+      "You may use the hydromassage shower box only if you meet these requirements: max weight 90 kg, max height 225 cm, entrance width 42 cm.",
+      "The owner is not responsible for theft. Always lock all doors and ensure the entrance door is fully closed.",
       "At check-out, leave remotes and keys next to the TVs.",
-      "Use stove only when present. Do not leave it unattended and check everything is off at the end.",
-      "Pay attention to steps in the shower and master bedroom bathroom.",
-      "Heating is centralized. Do not tamper with devices.",
-      "Do not leave trash around the house: use designated containers only.",
-      "Avoid simultaneous use of too many electrical devices.",
-      "Everything you find is at your disposal, with the trust it will be used diligently and sensibly."
+      "Use the stove only when present. Do not leave it unattended and unplug it when finished.",
+      "Be careful with the steps in the shower and in the main bathroom.",
+      "Heating is centralized. Do not tamper with the system.",
+      "Do not leave trash around the house: use only the proper bins.",
+      "Avoid using too many electrical appliances at the same time.",
+      "Do not leave the keys in the lock.",
+      "Guests are responsible for any damage caused during their stay."
+    ],
+    "manual": "Manual:",
+    "manuallist": [
+      "Use the washing machine on program no. 14",
+      "Use the dishwasher on Ecological program",
+      "Kettle: switch ON/OFF",
+      "Microwave oven: switch ON/OFF"
+    ],
+    "titleExp": "Things to See in the Vatican and Nearby",
+    "preexp": "Unique experiences:",
+    "experiences": [
+      "Visit St. Peter's Basilica",
+      "Climb the Dome of the Basilica (designed by Michelangelo)",
+      "Visit the Vatican Museums",
+      "Admire the Sistine Chapel",
+      "Visit the Raphael Rooms",
+      "Visit the Vatican Necropolis (beneath the Basilica)",
+      "Visit the Vatican Grottoes",
+      "Visit the Vatican Mosaic Studio",
+      "Walk through St. Peter's Square",
+      "Stroll through the Vatican Gardens"
+    ],
+    "prespecialexp": "Special experiences:",
+    "specialexp": [
+      "Meet the Pope",
+      "Attend Mass",
+      "Take a photo with the Swiss Guard",
+      "Send a postcard from the Vatican"
+    ],
+    "prenearexp": "Nearby experiences:",
+    "nearexp": [
+      "Visit Castel Sant'Angelo",
+      "Explore and enjoy Trastevere",
+      "Visit the Prati District",
+      "Walk through Villa Doria Pamphilj"
+    ],
+    "service": "Services:",
+    "services": [
+      "Shops",
+      "Restaurants",
+      "Laundry",
+      "Bars",
+      "Ice Cream Shops",
+      "Supermarkets",
+      "Parks",
+      "Train Station (FT)",
+      "Bus Stop",
+      "Pharmacy",
+      "S. Spirito Hospital",
+      "Bambin Gesù Hospital"
+    ],
+    "suggestion": "Suggestions:",
+    "suggestions": [
+      "Dress appropriately (no bare shoulders or legs) to enter sacred places.",
+      "Book in advance to visit the Necropolis and Vatican Gardens.",
+      "Arrive early to avoid crowds, especially at the Vatican Museums."
     ]
   },
+
   "fr": {
-    "welcome": "Règlement de la maison",
+    "welcome": "Règles de la Maison",
     "descrizione": "Bienvenue dans cette maison confortable et chaleureuse.",
-    "about": "Pour un séjour heureux et en toute sécurité, merci de respecter les règles suivantes :",
-    "lista": [
-      "Interdiction de fumer. Des détecteurs de fumée, de gaz et de monoxyde de carbone sont présents.",
-      "Ne laissez pas les fenêtres ouvertes avec la climatisation ou le chauffage allumés.",
-      "Silence obligatoire de 22h00 à 8h00 et de 13h00 à 15h00.",
-      "Avant de partir, vérifiez toujours : gaz coupé, lumières éteintes, eau fermée, lave-linge et lave-vaisselle éteints.",
-      "L'utilisation de la cabine de douche avec hydromassage est autorisée uniquement si les prérequis suivants sont respectés : poids maximum 90 kg, taille maximale 225 cm, largeur d'entrée 42 cm.",
-      "Le propriétaire n'est pas responsable des vols. Veuillez toujours fermer les portes et vous assurer que la porte d'entrée est bien verrouillée.",
-      "Au départ, laissez les télécommandes et les clés à côté des téléviseurs.",
-      "Utilisez les plaques de cuisson uniquement en présence. Ne les laissez pas sans surveillance et assurez-vous qu'elles sont éteintes à la fin.",
-      "Faites attention aux marches dans la douche et la salle de bain de la chambre principale.",
-      "Le chauffage est centralisé. Ne pas manipuler les dispositifs.",
-      "Ne laissez pas de déchets dans la maison : utilisez uniquement les conteneurs prévus à cet effet.",
-      "Évitez l'utilisation simultanée de trop nombreux appareils électriques.",
-      "Tout ce que vous trouvez est à votre disposition, avec la confiance qu'il sera utilisé avec diligence et bon sens."
+    "about": "Pour un séjour heureux et sûr, veuillez respecter les règles suivantes:",
+    "rules": [
+      "Il est interdit de fumer. Des détecteurs de fumée, de gaz et de monoxyde de carbone sont installés.",
+      "Ne laissez pas les fenêtres ouvertes lorsque la climatisation ou le chauffage est en marche.",
+      "Pas de bruit de 22 h 00 à 8 h 00 et de 13 h 00 à 15 h 00.",
+      "Avant de sortir, vérifiez toujours: gaz coupé, lumières éteintes, eau fermée, machine à laver et lave-vaisselle arrêtés.",
+      "Vous pouvez utiliser la cabine de douche hydromassante uniquement si vous répondez à ces critères: poids ≤ 90 kg, taille ≤ 225 cm, largeur d’entrée 42 cm.",
+      "Le propriétaire n’est pas responsable des vols. Fermez toujours les portes et assurez-vous que la porte d’entrée soit bien verrouillée.",
+      "Au départ, laissez les télécommandes et les clés près des téléviseurs.",
+      "Utilisez la cuisinière uniquement en votre présence. Ne la laissez pas sans surveillance et débranchez-la une fois terminée.",
+      "Faites attention aux marches dans la douche et la salle de bain principale.",
+      "Le chauffage est centralisé. Ne touchez pas au système.",
+      "Ne laissez pas de déchets dans la maison: utilisez uniquement les poubelles prévues.",
+      "Évitez d’utiliser simultanément trop d’appareils électriques.",
+      "Ne laissez pas les clés dans la serrure.",
+      "Les invités sont responsables de tous les dommages causés durant leur séjour."
+    ],
+    "manual": "Manuel:",
+    "manuallist": [
+      "Utiliser la machine à laver avec le programme n° 14",
+      "Utiliser le lave-vaisselle avec le programme Écologique",
+      "Bouilloire: interrupteur ON/OFF",
+      "Four à micro-ondes: interrupteur ON/OFF"
+    ],
+    "titleExp": "À voir au Vatican et alentours",
+    "preexp": "Expériences uniques:",
+    "experiences": [
+      "Visiter la Basilique Saint-Pierre",
+      "Monter à la coupole de la Basilique (conçue par Michel-Ange)",
+      "Visiter les musées du Vatican",
+      "Admirer la Chapelle Sixtine",
+      "Visiter les Chambres de Raphaël",
+      "Visiter la Nécropole du Vatican (sous la Basilique)",
+      "Visiter les Grottes du Vatican",
+      "Visiter l’Atelier de mosaïque du Vatican",
+      "Se promener sur la Place Saint-Pierre",
+      "Flâner dans les Jardins du Vatican"
+    ],
+    "prespecialexp": "Expériences spéciales:",
+    "specialexp": [
+      "Rencontrer le Pape",
+      "Assister à la messe",
+      "Prendre une photo avec la Garde suisse",
+      "Envoyer une carte postale depuis le Vatican"
+    ],
+    "prenearexp": "Expériences à proximité:",
+    "nearexp": [
+      "Visiter le Château Saint-Ange",
+      "Explorer et profiter de Trastevere",
+      "Visiter le quartier Prati",
+      "Se promener dans la Villa Doria Pamphilj"
+    ],
+    "service": "Services:",
+    "services": [
+      "Magasins",
+      "Restaurants",
+      "Laverie",
+      "Bars",
+      "Glaciers",
+      "Supermarchés",
+      "Parcs",
+      "Gare ferroviaire (FT)",
+      "Arrêt de bus",
+      "Pharmacie",
+      "Hôpital S. Spirito",
+      "Hôpital Bambin Gesù"
+    ],
+    "suggestion": "Conseils:",
+    "suggestions": [
+      "Habillez-vous de manière appropriée (pas d’épaules ou de jambes découvertes) pour accéder aux lieux sacrés.",
+      "Réservez à l’avance pour visiter la Nécropole et les Jardins du Vatican.",
+      "Arrivez tôt pour éviter la foule, surtout dans les musées du Vatican."
     ]
   },
+
   "es": {
-    "welcome": "Reglas de la casa",
+    "welcome": "Reglas de la Casa",
     "descrizione": "Bienvenidos a esta casa cómoda y acogedora.",
     "about": "Para una estancia feliz y segura, por favor respete las siguientes reglas:",
-    "lista": [
+    "rules": [
       "Prohibido fumar. Hay detectores de humo, gas y monóxido de carbono.",
       "No deje las ventanas abiertas con el aire acondicionado o la calefacción encendidos.",
-      "Prohibido hacer ruido de 22:00 a 8:00 y de 13:00 a 15:00.",
+      "Está prohibido hacer ruido de 22:00 a 8:00 y de 13:00 a 15:00.",
       "Antes de salir, siempre verifique: gas cerrado, luces apagadas, agua cerrada, lavadora y lavavajillas apagados.",
-      "Se puede usar la cabina de ducha con hidromasaje solo si se cumplen los siguientes requisitos: peso máximo 90 kg, altura máxima 225 cm, espacio de entrada 42 cm.",
-      "El propietario no se hace responsable de robos. Siempre cierre las puertas y asegúrese de que la puerta de entrada esté bien cerrada.",
-      "Al hacer el check-out, deje los controles remotos y las llaves junto a los televisores.",
-      "Use los fogones solo cuando esté presente. No se aleje durante su uso y, al terminar, verifique que todo esté apagado y que los enchufes estén desconectados.",
-      "Tenga cuidado con los escalones en la ducha y en el baño de la habitación principal.",
-      "La calefacción es centralizada. No manipule los dispositivos.",
-      "No deje basura por la casa: utilice solo los contenedores apropiados.",
-      "Evite el uso simultáneo de demasiados dispositivos eléctricos.",
-      "Todo lo que encuentre está a su disposición, con la confianza de que se utilizará con diligencia y sentido común."
+      "Puede usar la cabina de ducha con hidromasaje solo si cumple los siguientes requisitos: peso máximo 90 kg, altura máxima 225 cm, espacio de entrada 42 cm.",
+      "El propietario no se responsabiliza por robos. Siempre cierre las puertas y asegúrese de que la puerta principal esté bien cerrada.",
+      "Al hacer check-out, deje los controles remotos y las llaves junto a los televisores.",
+      "Use los fogones solo estando presente. No los deje desatendidos y apáguelos y desconéctelos al terminar.",
+      "Preste atención a los escalones en la ducha y en el baño principal.",
+      "La calefacción es centralizada. No manipule el sistema.",
+      "No deje basura por la casa: use solo los contenedores correspondientes.",
+      "Evite el uso simultáneo de demasiados aparatos eléctricos.",
+      "No deje las llaves puestas en la cerradura.",
+      "Los huéspedes son responsables de cualquier daño causado durante la estancia."
+    ],
+    "manual": "Manual:",
+    "manuallist": [
+      "Usar la lavadora con el programa n.º 14",
+      "Usar el lavavajillas con programa Ecológico",
+      "Hervidor: interruptor ON/OFF",
+      "Horno microondas: interruptor ON/OFF"
+    ],
+    "titleExp": "Cosas para ver en el Vaticano y alrededores",
+    "preexp": "Experiencias únicas:",
+    "experiences": [
+      "Visitar la Basílica de San Pedro",
+      "Subir a la Cúpula de la Basílica (diseñada por Miguel Ángel)",
+      "Visitar los Museos Vaticanos",
+      "Admirar la Capilla Sixtina",
+      "Visitar las Estancias de Rafael",
+      "Visitar la Necrópolis Vaticana (debajo de la Basílica)",
+      "Visitar las Grutas Vaticanas",
+      "Visitar el Taller de Mosaicos del Vaticano",
+      "Pasear por la Plaza de San Pedro",
+      "Pasear por los Jardines Vaticanos"
+    ],
+    "prespecialexp": "Experiencias especiales:",
+    "specialexp": [
+      "Encontrarse con el Papa",
+      "Asistir a misa",
+      "Tomar una foto con la Guardia Suiza",
+      "Enviar una postal desde el Vaticano"
+    ],
+    "prenearexp": "Experiencias en los alrededores:",
+    "nearexp": [
+      "Visitar el Castillo Sant’Angelo",
+      "Visitar y disfrutar Trastevere",
+      "Visitar el barrio Prati",
+      "Pasear por Villa Doria Pamphilj"
+    ],
+    "service": "Servicios:",
+    "services": [
+      "Tiendas",
+      "Restaurantes",
+      "Lavandería",
+      "Bares",
+      "Heladerías",
+      "Supermercados",
+      "Parques",
+      "Estación de tren (FT)",
+      "Parada de autobús",
+      "Farmacia",
+      "Hospital S. Spirito",
+      "Hospital Bambin Gesù"
+    ],
+    "suggestion": "Consejos:",
+    "suggestions": [
+      "Vístase apropiadamente (sin hombros o piernas descubiertas) para acceder a lugares sagrados.",
+      "Reserve con anticipación para visitar la Necrópolis y los Jardines Vaticanos.",
+      "Llegue temprano para evitar multitudes, especialmente en los Museos Vaticanos."
     ]
   }
 }
